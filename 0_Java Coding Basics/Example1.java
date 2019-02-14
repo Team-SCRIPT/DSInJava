@@ -1,5 +1,5 @@
 import java.io.*;
-class UNIBANK_RSC18
+class Example1
 {
         public static void main(String args[]) throws IOException
         {
